@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "algorithm": "cpp",
+        "queue": "cpp",
+        "map": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "iterator": "cpp",
+        "set": "cpp",
+        "__split_buffer": "cpp",
+        "functional": "cpp",
+        "unordered_map": "cpp"
+    }
+}
