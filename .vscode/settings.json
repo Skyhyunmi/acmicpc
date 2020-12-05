@@ -10,6 +10,9 @@
         "set": "cpp",
         "__split_buffer": "cpp",
         "functional": "cpp",
-        "unordered_map": "cpp"
+        "unordered_map": "cpp",
+        "__tree": "cpp",
+        "utility": "cpp",
+        "iosfwd": "cpp"
     }
 }
